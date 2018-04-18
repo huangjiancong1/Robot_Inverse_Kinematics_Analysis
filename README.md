@@ -93,5 +93,5 @@ set path under /Robot_Inverse_Kinematics_Analysis/code/
 run Numerical_draw_gdut.m file.
 ```
 <p align="center">
-    <img src="media/drawgdut.jpg", width="600">
+    <img src="media/drawgdut.jpg", width="1080">
 </p>
