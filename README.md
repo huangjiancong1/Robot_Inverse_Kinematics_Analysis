@@ -17,7 +17,7 @@
 ## Parameter
 ### Joint DOF
 <p align="center">
-    <img src="media/XZtran.jpg", width="300">
+    <img src="media/XZtran.jpg", width="350">
 </p>
 
 ### Move
@@ -44,11 +44,13 @@ A given end target position.
 <p align="center">
     <img src="media/terminalpose.jpg", width="150">
 </p>
+
 ### Step 2
 Given the initial joint Angle q of robot joints.
 <p align="center">
     <img src="media/startpose.jpg", width="100">
 </p>
+
 ### Step 3
 According to the forward kinematics, the terminal position of the initial joint Angle is calculated.
 
@@ -61,6 +63,7 @@ Press the joint Angle q motion manipulator, when
 <p align="center">
     <img src="media/err2.jpg", width="350">
 </p>
+
 ### Step 5
 When the error is not enough, calculate the correct amount, modify the initial joint Angle, and repeat step 2-4 again. Where J is Jacobian referred to in the previous section.
 <p align="center">
@@ -69,9 +72,10 @@ When the error is not enough, calculate the correct amount, modify the initial j
 <p align="center">
     <img src="media/fixqqq.jpg", width="200">
 </p>
+
 ###  Command structure
 <p align="center">
-    <img src="media/command.jpg", width="500">
+    <img src="media/command.jpg", width="600">
 </p>
 
 ## QuickStart
