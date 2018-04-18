@@ -67,7 +67,7 @@ Press the joint Angle q motion manipulator, when
 ### Step 5
 When the error is not enough, calculate the correct amount, modify the initial joint Angle, and repeat step 2-4 again. Where J is Jacobian referred to in the previous section.
 <p align="center">
-    <img src="media/fix.jpg", width="150">
+    <img src="media/fix.jpg", width="100">
 </p>
 <p align="center">
     <img src="media/fixqqq.jpg", width="200">
